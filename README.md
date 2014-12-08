@@ -24,18 +24,17 @@ Running main.rb should produce the following output:
 
 ```
 With cache:
- 1000 primes    0.439  seconds
- 2000 primes    1.644  seconds
- 3000 primes    2.832  seconds
- 4000 primes    4.016  seconds
- 5000 primes    5.54   seconds
- 6000 primes    6.689  seconds
- 7000 primes    8.34   seconds
- 8000 primes    9.502  seconds
+ 1000 primes     0.439 seconds
+ 2000 primes     1.644 seconds
+ 3000 primes     2.832 seconds
+ 4000 primes     4.016 seconds
+ 5000 primes     5.540 seconds
+ 6000 primes     6.689 seconds
+ 7000 primes     8.340 seconds
+ 8000 primes     9.502 seconds
  9000 primes    10.795 seconds
 10000 primes    12.145 seconds
 
 Without cache:
-
 10000 primes   55.698 seconds
 ```
